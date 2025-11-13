@@ -1,0 +1,5 @@
+cirq
+qsimcirq
+matplotlib
+numpy
+PyQt5
